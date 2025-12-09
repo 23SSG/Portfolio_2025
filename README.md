@@ -31,6 +31,7 @@ Projects in this section focus on:
 
 **Example Projects**
 - ** DoorDash Marketing Analysis Exploratory Data Analyis ** (Excel)
+  
 Explore Code: [ https://github.com/23SSG/Door-Dash-Marketing-Project]
 Read Article: [[Link to the LinkedIn article URL](https://www.linkedin.com/pulse/grub-go-flavorful-dive-doordash-food-delivery-trends-s-pradhan-u54ke)] 
  
