@@ -30,7 +30,7 @@ Projects in this section focus on:
 - Complex transformations with Pandas or SQL  
 
 **Example Projects**
-- ** DoorDash Marketing Analysis Exploratory Data Analyis ** (Excel)
+- ** DoorDash Marketing Analysis Exploratory Data Analyis(EDA) ** (Excel and EDA)
   
 Explore Code: [ https://github.com/23SSG/Door-Dash-Marketing-Project]
 
