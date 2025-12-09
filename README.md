@@ -30,7 +30,10 @@ Projects in this section focus on:
 - Complex transformations with Pandas or SQL  
 
 **Example Projects**
-- ** DoorDash Marketing Analysis Exploratory Data Analyis ** (Excel)  
+- ** DoorDash Marketing Analysis Exploratory Data Analyis ** (Excel)
+Explore Code: [ https://github.com/23SSG/Door-Dash-Marketing-Project]
+Read Article: [[Link to the LinkedIn article URL](https://www.linkedin.com/pulse/grub-go-flavorful-dive-doordash-food-delivery-trends-s-pradhan-u54ke)] 
+ 
 - ** Financial Analysis of World Bank Loans** (SQL+ Exploratory Data Analyis)  
 - ** Evaluating School Success with Tableau Project** (Tableau)  
 
