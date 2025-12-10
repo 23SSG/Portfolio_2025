@@ -39,7 +39,8 @@ Read Article: [https://www.linkedin.com/pulse/grub-go-flavorful-dive-doordash-fo
 - ** Financial Analysis of World Bank Loans** (SQL+ Exploratory Data Analyis)
 -  
 - ** Iron Mining Data Analysis Project** (Python and EDA)
-Explore Code: [ https://github.com/23SSG/Door-Dash-Marketing-Project]
+- 
+Explore Code: [https://github.com/23SSG/Iron-Mining-Data-Analysis-Project]
 
 Read Article: [https://www.linkedin.com/pulse/unearthing-insights-data-driven-analysis-iron-s-pradhan-gir7e]  
 
