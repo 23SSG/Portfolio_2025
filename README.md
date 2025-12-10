@@ -34,10 +34,14 @@ Projects in this section focus on:
   
 Explore Code: [ https://github.com/23SSG/Door-Dash-Marketing-Project]
 
-Read Article: [[Link to the LinkedIn article URL](https://www.linkedin.com/pulse/grub-go-flavorful-dive-doordash-food-delivery-trends-s-pradhan-u54ke)] 
+Read Article: [https://www.linkedin.com/pulse/grub-go-flavorful-dive-doordash-food-delivery-trends-s-pradhan-u54ke] 
  
-- ** Financial Analysis of World Bank Loans** (SQL+ Exploratory Data Analyis)  
-- ** Iron Mining Data Analysis Project** (Python and EDA)  
+- ** Financial Analysis of World Bank Loans** (SQL+ Exploratory Data Analyis)
+-  
+- ** Iron Mining Data Analysis Project** (Python and EDA)
+Explore Code: [ https://github.com/23SSG/Door-Dash-Marketing-Project]
+
+Read Article: [https://www.linkedin.com/pulse/unearthing-insights-data-driven-analysis-iron-s-pradhan-gir7e]  
 
 **What I demonstrate**
 - Strong foundational analytics  
