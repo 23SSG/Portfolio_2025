@@ -37,7 +37,9 @@ Explore Code: [ https://github.com/23SSG/Door-Dash-Marketing-Project]
 Read Article: [https://www.linkedin.com/pulse/grub-go-flavorful-dive-doordash-food-delivery-trends-s-pradhan-u54ke] 
  
 - ** Financial Analysis of World Bank Loans** (SQL+ Exploratory Data Analyis)
--  
+  
+ Read Article :[https://www.linkedin.com/pulse/leveraging-world-bank-support-empowering-ghanas-economic-s-pradhan-8vqse] 
+
 - ** Iron Mining Data Analysis Project** (Python and EDA)
 - 
 Explore Code: [https://github.com/23SSG/Iron-Mining-Data-Analysis-Project]
@@ -46,7 +48,8 @@ Read Article: [https://www.linkedin.com/pulse/unearthing-insights-data-driven-an
 
 **What I demonstrate**
 - Strong foundational analytics  
-- Efficient data wrangling  
+- Efficient data wrangling
+- Python and SQl skills
 - Preparing real-world messy datasets for analysis  
 
 ---
