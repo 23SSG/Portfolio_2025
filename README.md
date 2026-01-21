@@ -129,7 +129,9 @@ Here I showcase full workflow projects:
 **Flagship Projects**
 ### ⭐ Telecom Churn Prediction  
 Business-focused ML solution with feature importance and retention insights.
----
+Explore Code: [ https://github.com/23SSG/Door-Dash-Marketing-Project]
+
+Read Article: [https://www.linkedin.com/pulse/predicting-customer-churn-indias-telecom-sector-using-s-pradhan-nuoye] 
 
 # ☁️ **07 — Big Data Tools**
 Projects that demonstrate cloud-scale workflows:
