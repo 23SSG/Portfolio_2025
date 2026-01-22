@@ -112,7 +112,9 @@ These notebooks focus on core ML algorithms such as:
 
   Read Article: [https://www.linkedin.com/pulse/predicting-customer-churn-indias-telecom-sector-using-s-pradhan-nuoye] 
  
-- **Loan Default Classification**  
+- **Facial-Recognition-with Supervised Learning**
+  Explore Code : [https://github.com/23SSG/Arnold-Schwarzenegger-Facial-Recognition-Distinguishing-High-Profile-Individuals]
+  
 - **Customer Segmentation with K-Means**  
 
 **What I demonstrate**
