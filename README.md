@@ -61,16 +61,17 @@ Includes:
 - Exploratory data analysis (EDA)  
 
 **Example Projects**
-- **Power BI Regional Sales Dashboard**  
-- ** Decoding EV Trends** (Python + Power BI)**
+
+- **Decoding EV Trends** (Python + Power BI)
   
 Explore code : [https://github.com/23SSG/Plug-In-Hybrid-vs.-Battery-Electric-Vehicles-A-Comparative-Analysis]
 
 Read Article : [https://www.linkedin.com/pulse/decoding-ev-trends-whos-leading-charge-s-pradhan-xkhve]
 
-- ** Sales-SuperStore -Dashboard** (Tableau)
+- **Tableau Sales-SuperStore-Dashboard** 
 Explore Tableau-Public Link  to see the Dashboard :
 [https://public.tableau.com/app/profile/sonal.pradhan/viz/Sales-SuperStore_17153628435740/ExecutiveDashboard]
+
 - ** Analyzing NBA Data ** (Tableau)
 
  
