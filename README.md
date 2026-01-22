@@ -62,15 +62,16 @@ Includes:
 
 **Example Projects**
 - **Power BI Regional Sales Dashboard**  
-- ** Decoding EV Trends** (Python + Power BI)**  
+- ** Decoding EV Trends** (Python + Power BI)**
+  
+Explore code : [https://github.com/23SSG/Plug-In-Hybrid-vs.-Battery-Electric-Vehicles-A-Comparative-Analysis]
+
+Read Article : [https://www.linkedin.com/pulse/decoding-ev-trends-whos-leading-charge-s-pradhan-xkhve]
+
 - ** Evaluating School Success with Tableau Project** (Tableau)
 - ** Analyzing NBA Data ** (Tableau)
 
-  Each project includes:
-- PBIX file  
-- PDF/PNG exports  
-- Data model explanation  
-- Key insights  
+ 
 
 **What I demonstrate**
 - Storytelling with data  
