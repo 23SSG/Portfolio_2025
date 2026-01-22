@@ -91,11 +91,9 @@ Projects showcasing:
 - **Wikipedia Web Scraper (BeautifulSoup)**  
 - **API-Based Space Data Fetching (Datathon Project)**  
   
-
 ---
 
-
-# 🤖 **05 — Machine Learning Projects**
+# 🤖 **04 — Machine Learning Projects**
 These notebooks focus on core ML algorithms such as:
 - Decision Trees  
 - Random Forest  
@@ -105,7 +103,11 @@ These notebooks focus on core ML algorithms such as:
 - Time Series Forecasting  
 
 **Example Projects**
-- **Telecom Churn Prediction (Random Forest, Feature Importance)**  
+- **Telecom Churn Prediction (Random Forest, Feature Importance)**
+  Explore Code: [https://github.com/23SSG/Telecom-Churn-Prediction]
+
+  Read Article: [https://www.linkedin.com/pulse/predicting-customer-churn-indias-telecom-sector-using-s-pradhan-nuoye] 
+ 
 - **Loan Default Classification**  
 - **Customer Segmentation with K-Means**  
 
@@ -116,46 +118,6 @@ These notebooks focus on core ML algorithms such as:
 
 ---
 
-# 🚀 **06 — End-to-End Projects (Portfolio Highlights)**
-Here I showcase full workflow projects:
-- Problem definition  
-- Data cleaning  
-- EDA  
-- Feature engineering  
-- ML model  
-- Insights + recommendations  
-- Optional dashboard  
-
-**Flagship Projects**
-### ⭐ Telecom Churn Prediction  
-Business-focused ML solution with feature importance and retention insights.
-Explore Code: [ https://github.com/23SSG/Door-Dash-Marketing-Project]
-
-Read Article: [https://www.linkedin.com/pulse/predicting-customer-churn-indias-telecom-sector-using-s-pradhan-nuoye] 
-
-# ☁️ **07 — Big Data Tools**
-Projects that demonstrate cloud-scale workflows:
-
-### Databricks / PySpark  
-- EDA on large datasets  
-- Spark SQL  
-- MLlib models  
-- Notebook workflows  
----
-
-# 🧠 **08 — Deep Learning (PyTorch)**
-Beginner-to-intermediate deep learning projects:
-- Image classification  
-- Basic neural networks  
-- Transfer learning  
-- GPU workflows  
-
-**Example Projects**
-- **CIFAR-10 Image Classifier (PyTorch)**  
-- **Simple Neural Network from Scratch**  
-
----
-
 # 📚 **My Learning Journey**
 This portfolio reflects a structured path:
 
@@ -163,9 +125,7 @@ This portfolio reflects a structured path:
 2. **Independent practice — Python, SQL, Power BI**  
 3. **Associate Data Scientist (DataCamp)**  
 4. **Machine Learning specialization**  
-5. **Cloud tools: Databricks, Snowflake**  
-6. **Deep Learning foundations with PyTorch**  
-7. **End-to-end project building**  
+5. **End-to-end project building**  
 
 ---
 
@@ -177,12 +137,11 @@ I am currently seeking:
 
 I’m ready to contribute, learn, and grow by working on real-world data problems.
 
----
 
 # 📬 Contact
-**LinkedIn:** _Available on request_  
-**GitHub:** github.com/yourusername  
-**Email:** _Your preferred email_
+**LinkedIn:** www.linkedin.com/in/s-p-51a2982b0  
+**GitHub:** github.com/23SSG  
+**Email:** srpradhan13@gmail.com
 
 
 
