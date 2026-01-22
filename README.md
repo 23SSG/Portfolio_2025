@@ -68,7 +68,9 @@ Explore code : [https://github.com/23SSG/Plug-In-Hybrid-vs.-Battery-Electric-Veh
 
 Read Article : [https://www.linkedin.com/pulse/decoding-ev-trends-whos-leading-charge-s-pradhan-xkhve]
 
-- ** Evaluating School Success with Tableau Project** (Tableau)
+- ** Sales-SuperStore -Dashboard** (Tableau)
+Explore Tableau-Public Link  to see the Dashboard :
+[https://public.tableau.com/app/profile/sonal.pradhan/viz/Sales-SuperStore_17153628435740/ExecutiveDashboard]
 - ** Analyzing NBA Data ** (Tableau)
 
  
