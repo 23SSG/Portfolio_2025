@@ -115,7 +115,8 @@ These notebooks focus on core ML algorithms such as:
 - **Facial-Recognition-with Supervised Learning**
   Explore Code : [https://github.com/23SSG/Arnold-Schwarzenegger-Facial-Recognition-Distinguishing-High-Profile-Individuals]
   
-- **Customer Segmentation with K-Means**  
+- **Project-Predicting-Credit-Card-Approvals**
+ Explore Code:[https://github.com/23SSG/Project-Predicting-Credit-Card-Approvals/blob/main/README.md]
 
 **What I demonstrate**
 - Model building  
