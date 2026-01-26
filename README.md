@@ -113,8 +113,7 @@ These notebooks focus on core ML algorithms such as:
 - Logistic Regression  
 - XGBoost  
 - K-Means & Clustering  
-- Time Series Forecasting  
-
+  
 **Example Projects**
 - **Telecom Churn Prediction (Random Forest, Feature Importance)**
   Explore Code: [https://github.com/23SSG/Telecom-Churn-Prediction]
