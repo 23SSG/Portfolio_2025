@@ -15,7 +15,7 @@ I transitioned into data after completing the **IBM Data Analyst Certification**
 - Databricks 
 - PyTorch, Snowflake (Beginner)
 
-My top three strengths are analytical problem-solving, curiosity, and adaptability. My background in physics and engineering, combined with my recent transition into data analytics, allows me to break down complex problems and uncover actionable insights. I’m a constant learner who thrives on exploring new tools, domains, and challenges, and I adapt quickly—growing into roles and responsibilities that push me and the organization forward.
+My top three strengths are analytical problem-solving, curiosity, and adaptability. My background in physics,combined with my recent transition into data analytics, allows me to break down complex problems and uncover actionable insights. I’m a constant learner who thrives on exploring new tools, domains, and challenges, and I adapt quickly—growing into roles and responsibilities that push me and the organization forward.
 
 I am currently seeking **entry-level Data Analyst / Machine Learning / Data Science roles**, where I can apply my skills, gain real-world experience, and continue growing professionally. While I may not yet fit neatly into a predefined role, I’m confident I can quickly adapt, contribute meaningfully, and grow alongside with any team.
 
