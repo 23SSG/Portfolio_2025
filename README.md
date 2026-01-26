@@ -140,7 +140,7 @@ This portfolio reflects a structured path:
 1. **IBM Data Analyst Certification**  
 2. **Independent practice — Python, SQL, Power BI**  
 3. **Associate Data Scientist (DataCamp)**  
-4. **Machine Learning specialization**  
+4. **Machine Learning**  
 5. **End-to-end project building**  
 
 ---
