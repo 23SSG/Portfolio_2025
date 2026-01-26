@@ -3,16 +3,21 @@
 Welcome to my **Portfolio_2025**, a curated collection of projects showcasing my journey from data analytics training to practical machine learning and cloud-based workflows. This repository captures how I built my foundations, strengthened my technical skills, and transitioned toward a data-driven career.
 
  🧭 About Me
+
+In my recent work I was Self-Employed Independent Scientific Consultant. I analyzed complex datasets and developed proposals for federal agencies including NASA and the Department of Defense. This experience honed my ability to turn intricate technical requirements into clear, actionable insights. My earlier role as a Research Engineer at Mercury Systems sharpened my skills in research, systems thinking, and problem-solving under tight deadlines.
+After my time in these roles, I took a gap to handle family responsibilities.Beyond my past roles, what excites me most is learning and innovating in uncharted territory.
 I transitioned into data after completing the **IBM Data Analyst Certification**, followed by the **Associate Data Scientist Certification from DataCamp**. Since then, I’ve continued to upskill in:
 
 - Python for Data Analysis  
 - SQL & Databases  
 - Power BI & Visualization  
 - Machine Learning & Predictive Modeling  
-- Databricks, PySpark, Snowflake  
-- PyTorch for Deep Learning  
+- Databricks 
+- PyTorch, Snowflake (Beginner)
 
-I am currently seeking **entry-level Data Analyst / Machine Learning / Data Science roles**, where I can apply my skills, gain real-world experience, and continue growing professionally.
+My top three strengths are analytical problem-solving, curiosity, and adaptability. My background in physics and engineering, combined with my recent transition into data analytics, allows me to break down complex problems and uncover actionable insights. I’m a constant learner who thrives on exploring new tools, domains, and challenges, and I adapt quickly—growing into roles and responsibilities that push me and the organization forward.
+
+I am currently seeking **entry-level Data Analyst / Machine Learning / Data Science roles**, where I can apply my skills, gain real-world experience, and continue growing professionally. While I may not yet fit neatly into a predefined role, I’m confident I can quickly adapt, contribute meaningfully, and grow alongside with any team.
 
 ---
 
