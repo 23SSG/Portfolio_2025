@@ -1,7 +1,7 @@
 # 📊 Sonal Pradhan — Data Analytics & Machine Learning Portfolio (2025)
 Welcome to Portfolio_2025, a curated collection of data analytics, visualization, and machine learning projects showcasing my transition from scientific research into a data-driven career. This repository highlights my technical foundation, applied projects, and continuous learning journey.
 
- 🧭 About Me
+ 🧭 **About Me**
 
 I am a former Scientific Consultant and Research Engineer with experience supporting federally funded research for agencies such as NASA, DoD, DOE, and NIH. In these roles, I analyzed complex technical problems, synthesized data-driven insights, and translated them into clear, actionable proposals—many of which secured funding ranging from $70K to $1M.
 
