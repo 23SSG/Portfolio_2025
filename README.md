@@ -1,156 +1,132 @@
 # 📊 Sonal Pradhan — Data Analytics & Machine Learning Portfolio (2025)
-
-Welcome to my **Portfolio_2025**, a curated collection of projects showcasing my journey from data analytics training to practical machine learning and cloud-based workflows. This repository captures how I built my foundations, strengthened my technical skills, and transitioned toward a data-driven career.
+Welcome to Portfolio_2025, a curated collection of data analytics, visualization, and machine learning projects showcasing my transition from scientific research into a data-driven career. This repository highlights my technical foundation, applied projects, and continuous learning journey.
 
  🧭 About Me
 
-In my recent work I was Self-Employed Independent Scientific Consultant. I analyzed complex datasets and developed proposals for federal agencies including NASA and the Department of Defense. This experience honed my ability to turn intricate technical requirements into clear, actionable insights. My earlier role as a Research Engineer at Mercury Systems sharpened my skills in research, systems thinking, and problem-solving under tight deadlines.
-After my time in these roles, I took a gap to handle family responsibilities.Beyond my past roles, what excites me most is learning and innovating in uncharted territory.
-I transitioned into data after completing the **IBM Data Analyst Certification**, followed by the **Associate Data Scientist Certification from DataCamp**. Since then, I’ve continued to upskill in:
+I am a former Scientific Consultant and Research Engineer with experience supporting federally funded research for agencies such as NASA, DoD, DOE, and NIH. In these roles, I analyzed complex technical problems, synthesized data-driven insights, and translated them into clear, actionable proposals—many of which secured funding ranging from $70K to $1M.
 
-- Python for Data Analysis  
-- SQL & Databases  
-- Power BI & Visualization  
-- Machine Learning & Predictive Modeling  
-- Databricks 
-- PyTorch, Snowflake (Beginner)
+After a planned career break for family responsibilities, I transitioned into data analytics and data science, completing the IBM Data Analyst Certification and the Associate Data Scientist track from DataCamp. I continue to upskill through hands-on projects and tools commonly used in industry.
 
-My top three strengths are analytical problem-solving, curiosity, and adaptability. My background in physics,combined with my recent transition into data analytics, allows me to break down complex problems and uncover actionable insights. I’m a constant learner who thrives on exploring new tools, domains, and challenges, and I adapt quickly—growing into roles and responsibilities that push me and the organization forward.
+**Core Skills**
 
-I am currently seeking **entry-level Data Analyst / Machine Learning / Data Science roles**, where I can apply my skills, gain real-world experience, and continue growing professionally. While I may not yet fit neatly into a predefined role, I’m confident I can quickly adapt, contribute meaningfully, and grow alongside with any team.
+-Python (Pandas, NumPy, scikit-learn)
+
+-SQL & Databases
+
+-Power BI & Tableau
+
+-Machine Learning & Predictive Modeling
+
+-Databricks (beginner), PyTorch & Snowflake (introductory)
+
+I bring strong analytical thinking, adaptability, and curiosity, and I am comfortable learning new domains quickly and contributing in fast-paced environments.
 
 ---
+📂 **Projects Overview**
 
-📂 Projects
+Each project below links to a dedicated repository with code, analysis, and documentation.
 
 ---
 
 🧹 **01 — Data Cleaning Projects**
-Projects in this section focus on:
-- Advance Excel
-- Handling missing values  
-- Outlier detection  
-- Standardizing formats  
-- Data validation  
-- Complex transformations with Pandas or SQL  
 
-**Example Projects**
+Focus: real-world data preparation and analysis
+Tools: Excel, Python, SQL
+
+**Featured Projects**
 - ** DoorDash Marketing Analysis Exploratory Data Analyis(EDA) ** (Excel and EDA)
   
-Explore Code: [ https://github.com/23SSG/Door-Dash-Marketing-Project]
+🔗 GitHub: [ https://github.com/23SSG/Door-Dash-Marketing-Project]
 
-Read Article: [https://www.linkedin.com/pulse/grub-go-flavorful-dive-doordash-food-delivery-trends-s-pradhan-u54ke] 
+📝 Article: LinkedIn: [https://www.linkedin.com/pulse/grub-go-flavorful-dive-doordash-food-delivery-trends-s-pradhan-u54ke] 
  
 - ** Financial Analysis of World Bank Loans** (SQL+ Exploratory Data Analyis)
   
- Read Article :[https://www.linkedin.com/pulse/leveraging-world-bank-support-empowering-ghanas-economic-s-pradhan-8vqse] 
+ 📝 Article: LinkedIn :[https://www.linkedin.com/pulse/leveraging-world-bank-support-empowering-ghanas-economic-s-pradhan-8vqse] 
 
 - ** Iron Mining Data Analysis Project** (Python and EDA)
-Explore Code: [https://github.com/23SSG/Iron-Mining-Data-Analysis-Project]
+  
+🔗 GitHub: [https://github.com/23SSG/Iron-Mining-Data-Analysis-Project]
 
-Read Article: [https://www.linkedin.com/pulse/unearthing-insights-data-driven-analysis-iron-s-pradhan-gir7e]  
+📝 Article: LinkedIn: [https://www.linkedin.com/pulse/unearthing-insights-data-driven-analysis-iron-s-pradhan-gir7e]  
 
 **What I demonstrate**
-- Strong foundational analytics  
-- Efficient data wrangling
-- Python and SQl skills
-- Preparing real-world messy datasets for analysis  
+- Data wrangling & validation
+- Pattern discovery in messy datasets
+- Translating analysis into actionable insights 
 
 ---
 
 # 📊 **02 — Data Visualization Projects**
-Includes:
-- Power BI dashboards  
-- Matplotlib/Seaborn charts  
-- Exploratory data analysis (EDA)  
+**Tools:** Power BI, Tableau, Python
 
-**Example Projects**
+**Featured Projects**
 
 - **Decoding EV Trends** (Python + Power BI)
   
-Explore code : [https://github.com/23SSG/Plug-In-Hybrid-vs.-Battery-Electric-Vehicles-A-Comparative-Analysis]
+🔗 GitHub : [https://github.com/23SSG/Plug-In-Hybrid-vs.-Battery-Electric-Vehicles-A-Comparative-Analysis]
 
-Read Article : [https://www.linkedin.com/pulse/decoding-ev-trends-whos-leading-charge-s-pradhan-xkhve]
+📝 Article: LinkedIn : [https://www.linkedin.com/pulse/decoding-ev-trends-whos-leading-charge-s-pradhan-xkhve]
 
 - **Tableau Sales-SuperStore-Dashboard**
   
-Explore Tableau-Public Link  to see the Dashboard :
-
-[https://public.tableau.com/app/profile/sonal.pradhan/viz/Sales-SuperStore_17153628435740/ExecutiveDashboard]
+🔗 Tableau Public : [https://public.tableau.com/app/profile/sonal.pradhan/viz/Sales-SuperStore_17153628435740/ExecutiveDashboard]
 
 - **Analyzing NBA Data** (Tableau)
   
-Read Article :[https://www.linkedin.com/pulse/hoops-highlights-exploring-nba-stats-tableau-s-pradhan-jii5e]
+📝 Article: LinkedIn:[https://www.linkedin.com/pulse/hoops-highlights-exploring-nba-stats-tableau-s-pradhan-jii5e]
  
 
 **What I demonstrate**
-- Storytelling with data  
-- Clear, actionable insights  
-- Business-driven dashboards  
+-Insight-driven dashboards
+-Clear data storytelling for decision-making 
 
 ---
 
 # 🐍 **03 — Python Analytics Projects**
-Projects showcasing:
-- Pandas/Numpy  
-- Data aggregation  
-- API requests  
-- Web scraping  
-   
 
-**Examples**
+**Featured Projects**
+
 - **Wikipedia Web Scraper (BeautifulSoup)**
-  Explore Code : [https://github.com/23SSG/Web-Scraping-Project-Largest-Companies-in-the-USA-by-Revenue]
+ 🔗 GitHub : [https://github.com/23SSG/Web-Scraping-Project-Largest-Companies-in-the-USA-by-Revenue]
   
 - **API-Based Space Data Fetching (Datathon Project)**  
   
 ---
 
 # 🤖 **04 — Machine Learning Projects**
-These notebooks focus on core ML algorithms such as:
-- Decision Trees  
-- Random Forest  
-- Logistic Regression  
-- XGBoost  
-- K-Means & Clustering  
-  
-**Example Projects**
-- **Telecom Churn Prediction (Random Forest, Feature Importance)**
-  Explore Code: [https://github.com/23SSG/Telecom-Churn-Prediction]
 
-  Read Article: [https://www.linkedin.com/pulse/predicting-customer-churn-indias-telecom-sector-using-s-pradhan-nuoye] 
+**Algorithms:** Logistic Regression, Random Forest, XGBoost, Clustering 
+  
+**Featured Projects**
+- **Telecom Churn Prediction (Random Forest, Feature Importance)**
+  🔗 GitHub: [https://github.com/23SSG/Telecom-Churn-Prediction]
+
+  📝 Article: LinkedIn: [https://www.linkedin.com/pulse/predicting-customer-churn-indias-telecom-sector-using-s-pradhan-nuoye] 
  
 - **Facial-Recognition-with Supervised Learning**
-  Explore Code : [https://github.com/23SSG/Arnold-Schwarzenegger-Facial-Recognition-Distinguishing-High-Profile-Individuals]
+  🔗 GitHub : [https://github.com/23SSG/Arnold-Schwarzenegger-Facial-Recognition-Distinguishing-High-Profile-Individuals]
   
 - **Project-Predicting-Credit-Card-Approvals**
- Explore Code:[https://github.com/23SSG/Project-Predicting-Credit-Card-Approvals/blob/main/README.md]
+ 🔗 GitHub:[https://github.com/23SSG/Project-Predicting-Credit-Card-Approvals/blob/main/README.md]
 
-**What I demonstrate**
-- Model building  
-- Model tuning (GridSearchCV, RandomSearchCV)  
-- Metrics interpretation (confusion matrix, F1, ROC-AUC)  
+**What this demonstrates**
+-Model development & tuning
+-Evaluation metrics (ROC-AUC, F1, confusion matrix)
+-Interpretable ML outputs 
 
 ---
 
-# 📚 **My Learning Journey**
-This portfolio reflects a structured path:
-
-1. **IBM Data Analyst Certification**  
-2. **Independent practice — Python, SQL, Power BI**  
-3. **Associate Data Scientist (DataCamp)**  
-4. **Machine Learning**  
-5. **End-to-end project building**  
+# 📚 **My Learning Path**
+-IBM Data Analyst Certificate
+-Independent projects (Python, SQL, Power BI)
+-Associate Data Scientist — DataCamp
+-Machine Learning & end-to-end workflows
 
 ---
 
 # 💼 **Career Objective**
-I am currently seeking:
-- **Data Analyst Roles**  
-- **Junior Data Scientist Roles**  
-- **Machine Learning Internships**  
-
-I’m ready to contribute, learn, and grow by working on real-world data problems.
+I am seeking **entry-level Data Analyst**, **Junior Data Scientist**, or **Machine Learning Internship** roles where I can apply my analytical skills, gain real-world experience, and grow within a data-driven organization..
 
 
 # 📬 Contact
