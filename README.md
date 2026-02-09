@@ -79,9 +79,9 @@ Tools: Excel, Python, SQL
 
 **What I demonstrate**
 
--Insight-driven dashboards
+- Insight-driven dashboards
 
--Clear data storytelling for decision-making 
+- Clear data storytelling for decision-making 
 
 ---
 
@@ -114,19 +114,23 @@ Tools: Excel, Python, SQL
 
 **What this demonstrates**
 
--Model development & tuning
+- Model development & tuning
 
--Evaluation metrics (ROC-AUC, F1, confusion matrix)
+- Evaluation metrics (ROC-AUC, F1, confusion matrix)
 
--Interpretable ML outputs 
+- Interpretable ML outputs 
 
 ---
 
 # 📚 **My Learning Path**
--IBM Data Analyst Certificate
--Independent projects (Python, SQL, Power BI)
--Associate Data Scientist — DataCamp
--Machine Learning & end-to-end workflows
+
+- IBM Data Analyst Certificate
+  
+- Independent projects (Python, SQL, Power BI)
+  
+- Associate Data Scientist — DataCamp
+
+- Machine Learning & end-to-end workflows
 
 ---
 
