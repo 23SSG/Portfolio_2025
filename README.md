@@ -113,8 +113,11 @@ Tools: Excel, Python, SQL
  🔗 GitHub:[https://github.com/23SSG/Project-Predicting-Credit-Card-Approvals/blob/main/README.md]
 
 **What this demonstrates**
+
 -Model development & tuning
+
 -Evaluation metrics (ROC-AUC, F1, confusion matrix)
+
 -Interpretable ML outputs 
 
 ---
