@@ -78,7 +78,9 @@ Tools: Excel, Python, SQL
  
 
 **What I demonstrate**
+
 -Insight-driven dashboards
+
 -Clear data storytelling for decision-making 
 
 ---
