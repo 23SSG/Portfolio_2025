@@ -124,11 +124,12 @@ Tools: Excel, Python, SQL
 
 # 📚 **My Learning Path**
 
+- Associate Data Scientist — DataCamp
+  
 - IBM Data Analyst Certificate
   
-- Independent projects (Python, SQL, Power BI)
+- Independent projects (Python, SQL, Power BI,Tableau)
   
-- Associate Data Scientist — DataCamp
 
 - Machine Learning & end-to-end workflows
 
