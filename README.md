@@ -5,7 +5,7 @@ Welcome to Portfolio_2025, a curated collection of data analytics, visualization
 
 I am a former Scientific Consultant and Research Engineer with experience supporting federally funded research for agencies such as NASA, DoD, DOE, and NIH. In these roles, I analyzed complex technical problems, synthesized data-driven insights, and translated them into clear, actionable proposals,many of which secured funding ranging from $70K to $1M.
 
-After a planned career break for family responsibilities, I transitioned into data analytics and data science, completing the IBM Data Analyst Certification and the Associate Data Scientist track from DataCamp. I continue to upskill through hands-on projects and tools commonly used in industry.
+After a planned career break for family responsibilities, I transitioned into data analytics and data science, completing the IBM Data Analyst Certification and the Associate Data Scientist track from DataCamp. Curretnly enrolled in Machine Learning for Data Scientist at DataCamp. I continue to upskill through hands-on projects and tools commonly used in industry.
 
 **Core Skills**
 
@@ -131,7 +131,7 @@ Tools: Excel, Python, SQL
 - Independent projects (Python, SQL, Power BI,Tableau)
   
 
-- Machine Learning & end-to-end workflows
+- Machine Learning & end-to-end workflows (in progress)
 
 ---
 
