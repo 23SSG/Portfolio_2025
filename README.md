@@ -110,7 +110,7 @@ Tools: Excel, Python, SQL
   🔗 GitHub : [https://github.com/23SSG/Arnold-Schwarzenegger-Facial-Recognition-Distinguishing-High-Profile-Individuals]
   
 - **Project-Predicting-Credit-Card-Approvals**
- 🔗 GitHub:[https://github.com/23SSG/Project-Predicting-Credit-Card-Approvals/blob/main/README.md]
+ 🔗 GitHub:[https://github.com/23SSG/Project-Predicting-Credit-Card-Approvals]
 
 - **Medical Transcription NLP Analysis (spaCy + scispaCy)**
    🔗 GitHub:[https://github.com/23SSG/Medical-Transcription-NLP-Analysis-with-spaCY)]
