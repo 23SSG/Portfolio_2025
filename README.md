@@ -113,7 +113,7 @@ Tools: Excel, Python, SQL
  🔗 GitHub:[https://github.com/23SSG/Project-Predicting-Credit-Card-Approvals/blob/main/README.md]
 
 - **Medical Transcription NLP Analysis (spaCy + scispaCy)**
-   🔗 GitHub:[https://github.com/23SSG/Project-Predicting-Credit-Card-Approvals/blob/main/README.md]
+   🔗 GitHub:[https://github.com/23SSG/Medical-Transcription-NLP-Analysis-with-spaCY)]
 
 
 **What this demonstrates**
