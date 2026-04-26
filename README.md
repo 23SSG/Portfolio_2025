@@ -112,15 +112,30 @@ Tools: Excel, Python, SQL
 - **Project-Predicting-Credit-Card-Approvals**
  🔗 GitHub:[https://github.com/23SSG/Project-Predicting-Credit-Card-Approvals/blob/main/README.md]
 
+- **Medical Transcription NLP Analysis (spaCy + scispaCy)**
+   🔗 GitHub:[https://github.com/23SSG/Project-Predicting-Credit-Card-Approvals/blob/main/README.md]
+
+
 **What this demonstrates**
 
 - Model development & tuning
 
-- Evaluation metrics (ROC-AUC, F1, confusion matrix)
+- Evaluation metrics (ROC-AUC, F1, confusion matrix...)
 
-- Interpretable ML outputs 
+- Interpretable ML outputs
+  
+- Natrual Language Processing
 
 ---
+# *Here I showcase full workflow projects:
+
+- Problem definition  
+- Data cleaning  
+- EDA  
+- Feature engineering  
+- ML model  
+- Insights + recommendations  
+
 
 # 📚 **My Learning Path**
 
